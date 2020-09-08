@@ -1,4 +1,4 @@
-# Hi there 👋, Avior's here !
+# Hi/Bonjour, Avior's here !
 
 ## Presentation
 
