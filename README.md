@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/Aviortheking)
+![Most used Language](https://codestats-readme.vercel.app/api/top-langs/?username=aviortheking&language_count=10&layout=compact)
 
 <!--
 **Aviortheking/Aviortheking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
