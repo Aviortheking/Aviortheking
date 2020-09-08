@@ -1,6 +1,10 @@
 ### Hi there 👋
-
-![Most used Language](https://codestats-readme.vercel.app/api/top-langs/?username=aviortheking&language_count=10&layout=compact)
+<center>
+  <img src="https://github-readme-stats.vercel.app/api?username=aviortheking&count_private=true&show_icons=true" />
+</center>
+<center>
+  <img src="https://codestats-readme.vercel.app/api/top-langs/?username=aviortheking&language_count=10&layout=compact" />  
+</center>
 
 <!--
 **Aviortheking/Aviortheking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
