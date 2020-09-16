@@ -10,7 +10,10 @@
 | Why do you publish things under the `dezio` Group name?    | While I love my pseudo `Avior` it is generaly not available and `Aviortheking` is not the best pseudo to use from so I decided to publish most of things under the Dzeio Group + I can add people simpler if it is under a group than a user |
 | Where does `dzeio` come from?                              | I was searching for a small url domain for my URL shortener service (_see Projects under_) and I found that dze.io was available so I took it.                                                                                               |
 
-## Projects
+<details>
+  <summary>
+    Projects
+  </summary>
 
 At the current time I mainly use [Typescript](https://www.typescriptlang.org/) for everything with other libraries like [React](https://reactjs.org/) for DOM rendering and [Stylus](https://stylus-lang.com/) for styling.
 
@@ -28,6 +31,8 @@ Here is a list of the project I made (aka my top 10 best project list :smile: )
 | Form Manager    | Web Library             | Typescript                                   | `undefined`                                              | `undefined`                 | A Form Manager to easily manage document forms                                                                 | [Repository](https://github.com/dzeiocom/FormManager), [NPM](https://www.npmjs.com/package/@dzeio/form-manager)    |
 | Dotfiles        | Command line App        | Typescript                                   | `undefined`                                              | `undefined`                 | A Small program to backup/restore dotfiles                                                                     | [Reporitory](https://github.com/dzeiocom/dotfiles) , [Example Repositry](https://github.com/Aviortheking/dotfiles) |
 | File Explorer   | Desktop App             | Typescript                                   | `undefined`                                              | `undefined`                 | A file Explorer in VERY early state                                                                            | [Repository](https://github.com/Aviortheking/Delta-File-Manager)                                                   |
+
+</details>
 
 ## for Some stats to finish up good :smile:
 
