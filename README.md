@@ -36,7 +36,7 @@ Here is a list of the project I made (aka my top 10 best project list :smile: )
 
 ## for Some stats to finish up good :smile:
 
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=aviortheking&count_private=true&show_icons=true) | ![Codestats](https://codestats-readme.vercel.app/api/top-langs/?username=aviortheking&language_count=10&layout=compact) |
+| [![Github stats](https://github-readme-stats.vercel.app/api?username=aviortheking&count_private=true&show_icons=true)](https://github.com/Aviortheking) | [![Codestats](https://codestats-readme.vercel.app/api/top-langs/?username=aviortheking&language_count=10&layout=compact)](https://codestats.net/users/Aviortheking) |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 
 _Powered by [Codestats Readme](https://github.com/Aviortheking/codestats-readme), [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) and __Myself__ !_
