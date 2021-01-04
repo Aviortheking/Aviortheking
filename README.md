@@ -8,7 +8,7 @@
 | What do you do to make the living on earth less hellish?   | as the following graph shows, I make code for a living!<br />I Currently code mostly in Typescript but I know my way with a lot of languages.                                                                                                |
 | So you know how to use _this_ or _this_ framework/library? | While I like playing around with a lot of libraries/frameworks I mostly use renowed Frameworks/libraries for serious works.                                                                                                                  |
 | Why do you publish things under the `dezio` Group name?    | While I love my pseudo `Avior` it is generaly not available and `Aviortheking` is not the best pseudo to use from so I decided to publish most of things under the Dzeio Group + I can add people simpler if it is under a group than a user |
-| Where does `dzeio` come from?                              | I was searching for a small url domain for my URL shortener service (_see Projects under_) and I found that dze.io was available so I took it.                                                                                               |
+| Where does `dzeio` come from?                              | I was searching for a small url domain for my URL shortener service (_see Projects below_) and I found that dze.io was available so I took it.                                                                                               |
 
 <details>
   <summary>
