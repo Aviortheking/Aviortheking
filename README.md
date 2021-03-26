@@ -8,7 +8,7 @@ I currently work for [Aptatio](https://www.aptatio.com) as their main developper
 
 I use the JavaScript superset [Typescript](https://www.typescriptlang.org/) as my main language for everything, 
 
-To help me build softwares I also use different libraries/frameworks like [React](https://reactjs.org/), [NextJS](https://nextjs.org/), [Electron](https://www.electronjs.org/)  and [Stylus](https://stylus-lang.com/) for DOM styling.
+To help me build softwares I also use different libraries/frameworks like [React](https://reactjs.org/), [NextJS](https://nextjs.org/), [Electron](https://www.electronjs.org/)  and [Stylus](https://stylus-lang.com/) (SASS but better).
 
 You can contact me at contact@avior.me
 
