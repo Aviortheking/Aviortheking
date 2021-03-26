@@ -4,7 +4,7 @@
 
 I'm Florian BOUILLON or Avior, A French 🇫🇷 passionned Developper
 
-I currently work for [Aptatio](https://www.aptatio.com) as their main developper and I also build projects under the group name of [Dzeio](https://github.com/dzeiocom)
+I currently work for [Aptatio](https://www.aptatio.com) as their main developper, I also build projects under the group name of [Dzeio](https://github.com/dzeiocom) and finally I am a freelance developper for [hire](mailto:contact@avior.me)
 
 I use the JavaScript superset [Typescript](https://www.typescriptlang.org/) as my main language for everything, 
 
